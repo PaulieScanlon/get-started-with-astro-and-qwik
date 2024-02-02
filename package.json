@@ -1,0 +1,22 @@
+{
+  "name": "get-started-with-astro-and-qwik",
+  "version": "1.0.0",
+  "description": "Getting started repo for Astro + Qwik",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@builder.io/qwik": "^1.4.3",
+    "@qwikdev/astro": "^0.5.2",
+    "astro": "^4.3.2",
+    "typescript": "^5.3.3"
+  }
+}
